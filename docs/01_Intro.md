@@ -15,3 +15,13 @@ SSR x SPA
 - One request.
 - DOM is updated automatically.
 - State management per component.
+
+
+:leftwards_hand: **React project anatomy**
+- package.json: dependencies, project settings (project name, version, description, keywords etc), scripts, browsers list and others.
+- index.html: standard page with the tag <link> "manifest" and "shorcut".
+- index.js: it will start the app.
+
+:brain: **Things to remember**
+- A component is a function.
+- We can render components inside components.
