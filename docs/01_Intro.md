@@ -26,3 +26,4 @@ SSR x SPA
 - A component is a function.
 - We can render components inside components.
 - Everything that's inside {} are Javascript variables.
+- React components have props (or properties) that are inputed as parameters. Example: property "title".
