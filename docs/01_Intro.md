@@ -25,3 +25,4 @@ SSR x SPA
 :brain: **Things to remember**
 - A component is a function.
 - We can render components inside components.
+- Everything that's inside {} are Javascript variables.
