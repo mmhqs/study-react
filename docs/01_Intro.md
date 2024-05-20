@@ -1,12 +1,13 @@
 ⚛️ **What is React?**
 ----------------------------------
 - A Javascript library.
-- It has components.
+- Easy to learn, simple design, flexible (easily to integrate with other libraries), fast. We spend more time worrying with modern Javascript than understanding its structures. 
 - It has a virtual DOM. The browser DOM only render what was modified.
 - It works with JSX, which is a syntax extension for Javascript. It looks like Javascript mixed with HTML. Example:
   `const elemento = <h1>Bom dia!</h1>;`
 - To use Javascript in JSX syntax, you can use {}. After compiling, JSX calls become regular Javascript function calls.
 - "class" in HTML becomes "className" in JSX. "onclick" in HTML becomes "onClick" in JSX. It uses cammel case.
+- Other frameworks: Angular and Vue.
 
 :1st_place_medal: **Why is React so relevant?**
 ----------------------------------
@@ -34,8 +35,10 @@
 🤯 **Props x state**
 ----------------------------------
 - Imagine the component as a simple function. The props are the parameters and the DOM rendering is the output.
-- Props can't be altered!
+- Props can't be altered by the components!
 - The state belongs to the component, it's in the component scope. States can be altered!
+
+PROPS > COMPONENTS (STATE) > DOM
 
 🫲 **React project anatomy**
 ----------------------------------
