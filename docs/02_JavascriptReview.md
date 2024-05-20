@@ -11,15 +11,24 @@ Summary
 
 Variable declaration (let and const)
 ----------------------------------------
+- Let allows you to modify the variable.
+- Const = constants.
 
 Arrow functions
 ----------------------------------------
+- Traditional functions:
+`function ola(){
+    return 'Olá!'
+- Arrow functions:
+- 
 
 Modules - import and export
 ----------------------------------------
 
+
 Classes, properties and methods
 ----------------------------------------
+
 
 Spread an rest operators
 ----------------------------------------
