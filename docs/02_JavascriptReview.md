@@ -38,10 +38,14 @@ Modules - import and export
 
 Classes, properties and methods
 ----------------------------------------
-
+- Objected oriented programming.
 
 Spread an rest operators
 ----------------------------------------
+- The spread operator is used to clone info into new objects.
+- Spread and rest operators: ....
 
 Destructuring assignment
 ----------------------------------------
+- To get only what you need from a object.
+- Instead of assigning the whole object, you can assign only what you need from it.
